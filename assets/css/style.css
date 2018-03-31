@@ -1,0 +1,35 @@
+body {
+    background-image: url(../images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.jumbotron {
+    background-color: rgba(243, 243, 243, 0.671);
+    color: rgb(0, 1, 71);
+    font-family: fantasy;
+    padding: 2%;
+}
+
+.panel-title {
+    color: rgb(3, 3, 3);
+    font-family: fantasy;
+}
+
+.panel-heading {
+    background-color: rgba(153, 149, 190, 0.671);
+}
+
+.panel-body {
+    background-color: rgba(243, 243, 243, 0.671);
+    font-family: fantasy;
+}
+
+.panel {
+    opacity: 0.95;
+}
+
+.btn {
+    background-color: rgba(153, 149, 190, 0.671);
+    color: rgb(3, 3, 3);
+}
